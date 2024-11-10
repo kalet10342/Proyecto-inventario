@@ -1,0 +1,10 @@
+C:\Users\USUARIO\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Libretapedidos.resources
+C:\Users\USUARIO\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\USUARIO\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\USUARIO\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\USUARIO\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\USUARIO\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
